@@ -1,2 +1,0 @@
-# shell
-store shell scripts
